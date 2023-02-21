@@ -1,1 +1,1 @@
-<p align="center">SkyUI</p>
+<h1 align="center">SkyUI</h1>
